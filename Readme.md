@@ -1,4 +1,5 @@
 <!-- 🔥 KRISH STAR PREMIUM README --><h1 align="center">👑 KRISH STAR MUSIC BOT 👑</h1><p align="center">
+<!-- 🔥 KRISH STAR PREMIUM README --><h1 align="center">👑 KRISH STAR MUSIC BOT 👑</h1><p align="center">
   <b>🎶 Ultimate Telegram Music Bot | ⚡ Fast | 🚀 Powerful | 💎 VIP</b>
 </p><p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+KRISH+STAR+MUSIC+BOT;Best+Music+Bot+for+Telegram;Made+with+❤️+by+KRISH+STAR" />
@@ -23,6 +24,25 @@ KRISH STAR MUSIC BOT 👑 ek next-level Telegram bot hai jo group voice chat me 
 - 🌐 Multi Platform Support (YouTube, Spotify)
 - 🤖 Easy Commands
 - 👑 Full Owner Control (VIP System)
+
+---
+
+🎓 BPS Diploma Information
+
+📚 BPS (Basic Professional Skills) Diploma ek course hai jo practical skills sikhata hai
+
+📌 Isme kya hota hai:
+
+- 💻 Computer Basic Knowledge
+- 🌐 Internet Skills
+- 🧾 Documentation
+- 🗣️ Communication
+
+🎯 Benefit:
+
+- Job ready skills
+- Basic IT strong
+- Online earning help
 
 ---
 
@@ -66,10 +86,16 @@ docker run -d --name krish --env-file .env krishstar
 
 ---
 
-💬 Connect With Me
+📢 Official Channel
+
+👉 https://t.me/KRISH_HACKER_OP
+
+---
+
+💬 Contact Owner
 
 <p align="center">
-  <a href="https://t.me/YOUR_USERNAME">
+  <a href="https://t.me/KRISH_HACKER_OWNER">
     <img src="https://img.shields.io/badge/Contact-KRISH%20STAR-blue?style=for-the-badge&logo=telegram"/>
   </a>
 </p>---
@@ -84,4 +110,4 @@ docker run -d --name krish --env-file .env krishstar
 🔖 Credits
 
 - ❤️ Original Developers
-- 🔥 Modified & Designed by KRISH STAR
+- 🔥 Modified & Designed by KRISH STAR 👑
